@@ -1,2 +1,2 @@
 # Parishkrit.github.io
-Resume
+Personal website
